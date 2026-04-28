@@ -87,13 +87,13 @@ smart-plugin-monitor/
 
 *(Replace placeholders with actual repository images)*
 
-*   ![Dashboard Overview](smart-plugin-monitor\assets\screenshots\1.png)
+*   ![Dashboard Overview](https://github.com/Mhatem1995/smart-plugin-monitor/blob/main/smart-plugin-monitor/assets/screenshots/1.png)
     *Comprehensive dashboard displaying system health and critical alerts.*
-*   ![Performance Diagnostics](smart-plugin-monitor\assets\screenshots\2.png)
+*   ![Performance Diagnostics](https://github.com/Mhatem1995/smart-plugin-monitor/blob/main/smart-plugin-monitor/assets/screenshots/2.png)
     *Granular performance breakdown of individual plugins.*
-*   ![Security Scan Results](smart-plugin-monitor\assets\screenshots\3.png)
+*   ![Security Scan Results](https://github.com/Mhatem1995/smart-plugin-monitor/blob/main/smart-plugin-monitor/assets/screenshots/4.png)
     *Detailed vulnerability reporting and security recommendations.*
-*   ![Historical Analytics](smart-plugin-monitor\assets\screenshots\5.pnh)
+*   ![Historical Analytics](https://github.com/Mhatem1995/smart-plugin-monitor/blob/main/smart-plugin-monitor/assets/screenshots/8.png)
     *Long-term performance trends and update impact visualization.*
 
 ---
